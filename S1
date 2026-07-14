@@ -1,0 +1,13 @@
+xau-ai-signal
+│
+├── app/
+│   ├── screens/
+│   ├── widgets/
+│   ├── models/
+│   └── services/
+│
+├── backend/
+│   ├── signal_engine/
+│   └── api/
+│
+└── README.md
